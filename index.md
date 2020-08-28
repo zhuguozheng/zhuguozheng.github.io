@@ -47,7 +47,7 @@ Email:
 
 Telegram:
 
-<a href="https://t.me/zhuguozhrng6">https://t.me/zhuguozheng6</a>
+<a href="https://t.me/zhuguozheng6">https://t.me/zhuguozheng6</a>
 
 
 Twitter:
