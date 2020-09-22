@@ -5,7 +5,7 @@ QQ:
 
 <a href="tencent://message/?uin=1049467522">1049467522</a>
 
-<img src="https://1049467522.github.io/qq.jpg" alt="1" />
+<img src="https://cdn.jsdelivr.net/gh/1049467522/1049467522.github.io/qq.jpg" alt="1" />
 
 
 QQ空间:
@@ -14,7 +14,7 @@ QQ空间:
 
 微信:
 
-<img src="https://1049467522.github.io/wechat.jpg" alt="1" />
+<img src="https://cdn.jsdelivr.net/gh/1049467522/1049467522.github.io/wechat.jpg" alt="1" />
 
 Email: 
 
@@ -59,12 +59,12 @@ Twitter:
 
 QQ支付:
 
-<img src="https://1049467522.github.io/qqpay.png" alt="1" />
+<img src="https://cdn.jsdelivr.net/gh/1049467522/1049467522.github.io/qqpay.png" alt="1" />
 
 微信支付:
 
-<img src="https://1049467522.github.io/wechatpay.png" alt="1" />
+<img src="https://cdn.jsdelivr.net/gh/1049467522/1049467522.github.io/wechatpay.png" alt="1" />
 
 支付宝:
 
-<img src="https://1049467522.github.io/zhifubao.jpg" alt="1" />
+<img src="https://cdn.jsdelivr.net/gh/1049467522/1049467522.github.io/zhifubao.jpg" alt="1" />
