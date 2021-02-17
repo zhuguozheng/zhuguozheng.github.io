@@ -68,3 +68,7 @@ QQ支付:
 支付宝:
 
 <img src="https://cdn.jsdelivr.net/gh/1049467522/1049467522.github.io/zhifubao.jpg" alt="1" />
+
+银联:
+
+<img src="https://cdn.jsdelivr.net/gh/1049467522/1049467522.github.io/yinlian.jpg" alt="1" />
