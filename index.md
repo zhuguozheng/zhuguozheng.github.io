@@ -45,10 +45,6 @@ Email:
 <a href="mailto:zhuguozheng@zhuguozheng6.onaliyun.com">zhuguozheng@zhuguozheng6.onaliyun.com</a>
 
 
-Telegram:
-
-<a href="https://t.me/zhuguozheng6">https://t.me/zhuguozheng6</a>
-
 
 Twitter:
 
