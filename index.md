@@ -68,3 +68,7 @@ QQ支付:
 银联:
 
 <img src="https://cdn.jsdelivr.net/gh/1049467522/1049467522.github.io/yinlian.jpg" alt="1" />
+
+数字人民币:
+
+<img src="https://cdn.jsdelivr.net/gh/1049467522/1049467522.github.io/digitalRMB.jpg" alt="1" />
