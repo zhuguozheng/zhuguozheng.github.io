@@ -60,6 +60,7 @@ QQ支付:
 微信支付:
 
 <img src="/wechatpay.png" alt="1" />
+<img src="/wechatdonate.png" alt="1" />
 
 支付宝:
 
